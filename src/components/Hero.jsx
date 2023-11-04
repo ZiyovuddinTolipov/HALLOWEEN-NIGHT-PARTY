@@ -17,7 +17,7 @@ export default function Hero() {
                     THE TADITION ORIGINAITED WITH THE ANCIANT CELTIC FESTIVAL OF SAMHIAN ,WHEN PEOPLE WOULD LIGHT BONFIRES AND WEAR COSTUMS TO WAERD OFF GHOST
                 </h2>
                 <div className="flex gap-2">
-                    <button className="bg-[#F97E48] px-4 py-2 rounded-md text-white font-semibold max-w-[140px] w-full whitespace-nowrap ">GET A TICKET</button>
+                    <button className="bg-[#9E2A04] px-4 py-2 rounded-md text-white font-semibold max-w-[140px] w-full whitespace-nowrap ">GET A TICKET</button>
                     <button className="border px-4 py-2 rounded-md text-white font-semibold max-w-[140px] w-full">RULES</button>
                 </div>
             </div>
